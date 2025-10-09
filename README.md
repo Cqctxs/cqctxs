@@ -1,4 +1,4 @@
-```console
+```shell
 [sean@cqctxs ~]$ neofetch
               =--=                    sean@cqctxs
            ==+=++=+=--                -----------
