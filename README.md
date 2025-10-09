@@ -1,6 +1,6 @@
 ```console
 [sean@cqctxs ~]$ neofetch
-              =--=                    sean@cqctxs
+\x1b[3][6]              =--=                    sean@cqctxs
            ==+=++=+=--                -----------
          :-=+==++-=+==                OS: Windows 11, macOS 26.0.1, Kali Linux
     --    ==+==++==+== -==--=         Host: MacBook Air 13.3"
