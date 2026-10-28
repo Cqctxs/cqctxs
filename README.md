@@ -7,7 +7,7 @@
 --======- ==+==++==+== ==+=+==-       Location: Toronto
 ===+==+== :-+==++===-- ==+==+==       Role: Computer Engineering Student @ UofT
 :-=+==+== ==+==++==+=  ==+==+=-:      
- =--==+== ==+==++==+====++=+==        Languages: Javascript, C/C++, Java, Python
+ =--==+== ==+==++==+====++=+==        Languages: Rust, Javascript, C/C++, Java, Python
  ===+=+== ::++==+========++==--       Passions: Web Dev, CyberSec, CTFs, Hackathons
  --=+=++====++==+==+=======           Projects: Pinned below :)
    ===+==++--+==+==+::                
